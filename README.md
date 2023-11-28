@@ -4,7 +4,7 @@
 
 And I'm excited to welcome you to my personal GitHub page! 
 
-As a self-taught programmer, I've been exploring the world of full-stack and software development, and I'm eager to share my projects and experiences with you.
+As a self-taught programmer and now an officially student again, I've been exploring the world of web and software development, and I'm eager to share my projects and experiences with you.
 
 #### My Background :microscope:
 My background is in chemistry, and I spent several years working in the food industry in R&D and Quality departments. Although I enjoyed my work, I realized that my hobbies and interests aligned more closely with the tech field. So, I decided to make a career transition and pursue my passion for programming.
@@ -19,11 +19,10 @@ I'm excited to be part of the programming community and to contribute to it in m
 Thank you for visiting my page, and I look forward to connecting with you!
 
 ## Currently working on :zap:
-- React
-  - Hooks
-- Fetch API
+- Python
+- Mark-up languages
+- Data bases (SQL)
 - GitHub
 ## Interested in learn :mag_right:
-- User Authentication & Authorization
-- PostgreSQL
+- Whole web development (including fetch APIs and user Authentication & Authorization)
 - A lot of more of Databases
